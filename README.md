@@ -11,8 +11,6 @@ Bienvenue sur mon profil ! Je suis un mordu de gaming qui adore bidouiller du co
 | 🔴 YouTube Channel | 🐙 GitHub Stats |
 | :--- | :--- |
 | [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/kawail_fps?label=ABONNÉS&style=for-the-badge&logo=youtube&color=ff0000)](https://www.youtube.com/@kawail_fps) | ![Stats de kawail_fps](https://github-readme-stats.vercel.app/api?username=kawail_fps&hide_title=true&show_icons=true&theme=tokyonight) |
-| **Top Langages** | **Activité** |
-|
 
 ---
 
