@@ -6,14 +6,6 @@ Bienvenue sur mon profil ! Je suis un mordu de gaming qui adore bidouiller du co
 
 ---
 
-### 📊 Statistiques & Social
-
-| 🔴 YouTube Channel | 🐙 GitHub Stats |
-| :--- | :--- |
-| ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=kawail_fps&show_icons=true&theme=tokyonight&count_private=true) |
-
----
-
 ### 🛠️ Mon Arsenal de Code (Skills)
 
 J'apprends et j'utilise ces outils pour mes projets :
