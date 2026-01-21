@@ -1,42 +1,50 @@
-# Salut ! Moi c'est **kawail_fps** 👋
+# Salut ! Moi c'est **kawail_fps** 👋 🚀
 
-### 🎮 Passionné de Jeux Vidéo & Développeur en herbe
+### 🎮 Passionné de Jeux Vidéo & Développeur "Tout-Terrain"
 
-Bienvenue sur mon profil ! Je suis un mordu de gaming qui a décidé de passer de l'autre côté du miroir pour comprendre comment tout ça fonctionne. J'adore coder, apprendre de nouvelles technos et relever des défis techniques.
-
----
-
-### 🚀 À propos de moi
-
-* 🕹️ **Passion :** Gaming (FPS, Compétition, Performance)
-* 💻 **Ce que je fais :** Je code un peu de tout, de la logique de jeu aux petits outils pratiques.
-* 🧠 **En apprentissage :** Toujours en train de découvrir de nouveaux langages pour m'améliorer.
-* ⚡ **Objectif :** Créer des expériences fluides et optimisées.
+Bienvenue sur mon profil ! Je suis un mordu de gaming qui adore bidouiller du code, optimiser des scripts et partager ma passion sur YouTube.
 
 ---
 
-### 🛠️ Mes Outils & Langages
+### 📊 Statistiques & Social
 
-| Domaine | Technologies |
+| 🔴 YouTube Channel | 🐙 GitHub Stats |
 | :--- | :--- |
-| **Langages** | HTML, CSS, JavaScript (ou tes langages actuels) |
-| **Outils** | VS Code, Git, GitHub |
-| **Gaming Gear** | Config optimisée pour les FPS |
+| [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/kawail_fps?label=ABONNÉS&style=for-the-badge&logo=youtube&color=ff0000)](https://www.youtube.com/@kawail_fps) | ![Stats de kawail_fps](https://github-readme-stats.vercel.app/api?username=kawail_fps&hide_title=true&show_icons=true&theme=tokyonight) |
+| **Top Langages** | **Activité** |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawail_fps&layout=compact&theme=tokyonight) | ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=kawail_fps&show_icons=true&theme=tokyonight) |
 
 ---
 
-### 📊 Mes Statistiques GitHub
+### 🛠️ Mon Arsenal de Code (Skills)
 
-![Stats de kawail_fps](https://github-readme-stats.vercel.app/api?username=kawail_fps&show_icons=true&theme=tokyonight)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=kawail_fps&layout=compact&theme=tokyonight)
+J'apprends et j'utilise ces outils pour mes projets :
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,python,git,vscode,discord,github)
+
+---
+
+### 🕹️ Gaming Setup & Favorites
+
+* **Mes FPS favoris :** 🎯 Valorant, Counter-Strike, Apex Legends.
+* **Objectif :** Atteindre le meilleur rang tout en codant les meilleurs outils.
+* **Ma devise :** *"Moins de latence, plus de précision."*
+
+---
+
+### 📈 Progression des Projets
+- **Apprentissage du code :** `[▓▓▓▓▓▓▓▓░░░░░░░░░░░░] 40%`
+- **Setup de la chaîne YouTube :** `[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░] 75%`
 
 ---
 
 ### 📫 Me contacter
 
-* **Discord :** `ton_pseudo_discord`
-* **GitHub :** [kawail_fps](https://github.com/kawail_fps)
+<p align="left">
+<a href="https://www.youtube.com/@kawail_fps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kawail_fps" height="30" width="40" /></a>
+<a href="https://discord.com/users/1012677709505237077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kawail_fps" height="30" width="40" /></a>
+</p>
 
 ---
 
-> "Le code, c'est comme un FPS : il faut de la précision, de la réactivité et un bon setup !"
+> Ce profil est mis à jour automatiquement... enfin, quand je ne suis pas en train de carry ma team ! 🏆
